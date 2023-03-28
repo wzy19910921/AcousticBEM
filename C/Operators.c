@@ -28,6 +28,7 @@
 #include "Operators.h"
 
 #define MAX_LINE_RULE_SAMPLES 2048
+#define 1
 
 typedef struct {
   float re;
